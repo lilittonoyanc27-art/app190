@@ -1,0 +1,6 @@
+{
+  "name": "Gayane's Beach: Pretérito Perfecto",
+  "description": "Իսպաներենի անցյալ ժամանակի (Pretérito Perfecto) վարժություններ Գայանեի համար: Լողափնյա մթնոլորտ և նոր նախադասություններ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
